@@ -1,3 +1,5 @@
+# practical 3
+
 num1 = int(input("Enter first num - "))  # 10
 num2 = int(input("Enter second num - "))  # 20
 print("Num 1 before swap - ", num1)
