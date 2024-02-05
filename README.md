@@ -2,4 +2,5 @@
 
 # Python Repository
 
-Codes related to practical (Diploma level/beginner level)
+You will find codes here for beginners. 
+* EXP series are related to Practicals(Diploma level).
