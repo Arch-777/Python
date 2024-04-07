@@ -1,2 +1,3 @@
-def college(name):
-    print(name)
+def college(a, b):
+    print(a + b)
+    print(a - b)
